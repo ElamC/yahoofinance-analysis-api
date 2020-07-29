@@ -1,7 +1,7 @@
 yahoofinance-analysis-api
 
 
-An API that returns earnings, financial information and stock analysis tools found on Yahoo Finance.
+An API that returns earnings, financial information and stock analysis tools from Yahoo Finance.
 
 
 ## API
