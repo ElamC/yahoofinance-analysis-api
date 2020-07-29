@@ -151,12 +151,12 @@ Multi ticker response:
       - `revenue` *(number)*: quarterly ticker revenue
 
 
-## Requirements
+### Requirements
 
 - Python 3.7
 - [Docker](https://www.docker.com/) for running the application.
 
-## Running application
+### Running application
 
 
 To run the application locally in a [Docker](https://www.docker.com/) container, install Docker and run:
