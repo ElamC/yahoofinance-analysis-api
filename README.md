@@ -166,7 +166,7 @@ docker run -p 5001:5000 -d yahoofinance-analysis-api
 ```
 
 
-## License
+### License
 
 [(Back to top)](#table-of-contents)
 
