@@ -1,7 +1,7 @@
 ## yahoofinance-analysis-api
 
 
-An API for earnings, financial information, and stock analysis tools based on data scraped from [Yahoo Finance](https://finance.yahoo.com/). Query single or multiple symbols in one request.
+API for earnings, financial information, and stock analysis tools based on data scraped from [Yahoo Finance](https://finance.yahoo.com/). Query single or multiple symbols in one request.
 
 ### API
 
